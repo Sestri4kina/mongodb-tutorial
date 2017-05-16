@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial on mongoose and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Anastasiia Bratochkina",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.1",
+    "mongoose": "^4.9.9"
+  }
+}
